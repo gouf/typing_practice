@@ -1,0 +1,22 @@
+#ed {
+  resize: none;
+  font-size: 30px;
+  text-align: center;
+}
+#editor, #preview {
+  width: 500px;
+  height: 100px;
+}
+#preview {
+  font-size: 120px;
+  text-align: center;
+}
+span.all_collect {
+  background: orange;
+}
+span.collect {
+  background: #BBDDDD;
+}
+span.incollect {
+  background: pink;
+}
